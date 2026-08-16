@@ -1,4 +1,4 @@
 # My DevOps Journey
-Learning Git for DevOps
+Learning Linux for DevOps
 Git Branching Practice
 Git Basics Revision
